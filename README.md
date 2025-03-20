@@ -1,10 +1,10 @@
 # AprilTags with TurtleBot3 Camera
 
 ## Tasks
-1. **Modify Code for TurtleBot3 Camera**  
-   - Ensure that `main.py`, which currently works on a laptop, is modified to function with the TurtleBot3 camera.
+1. **`main.py`**
+  - works on laptop using webcam
 
-2. **Testing `RosVersion.py` on TurtleBot3**  
+3. **Testing `RosVersion.py` on TurtleBot3**  
    - Implement ROS elements and verify that it runs properly on the actual TurtleBot.
 
 ## Files
