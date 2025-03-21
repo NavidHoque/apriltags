@@ -5,7 +5,8 @@
   - works on laptop using webcam
 
 3. **Testing `RosVersion.py` on TurtleBot3**  
-   - Implement ROS elements and verify that it runs properly on the actual TurtleBot.
+   - playing around with the main.py script with some ros aspects have not actually tested it in on the turtlebot yet
+   - 
 
 ## Files
 - `main.py` – Currently functional on a laptop.
